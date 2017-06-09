@@ -3,6 +3,10 @@
   margin-bottom: 150px;
 }
 
+.btn-agregar {
+  margin-bottom: 20px;
+}
+
 .puntero{
   cursor: pointer;
 }
